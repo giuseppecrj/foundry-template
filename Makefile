@@ -14,6 +14,9 @@ remappings 		:; forge remappings > remappings.txt
 
 # Build & test & deploy
 node 						:; yarn hardhat node
+account         :; yarn account
+generate        :; yarn generate
+
 build         	:; forge build
 clean        		:; forge clean
 update        	:; forge update
